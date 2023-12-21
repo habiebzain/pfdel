@@ -5,4 +5,4 @@ Zimbra Postfix Delete
 <h3>1. Download File</h3>
 <h3>2. Change Execute file chmod.</h3>
 <p><code>chmod +x&nbsp;<a class="Link--primary" title="postfix-pfdel.sh" href="https://github.com/habiebzain/pfdel/blob/main/postfix-pfdel.sh">postfix-pfdel.sh</a></code></p>
-<p><code>./postfix-pfdel.sh mail_sender_or_mail_recipient<a class="Link--primary" title="postfix-pfdel.sh" href="https://github.com/habiebzain/pfdel/blob/main/postfix-pfdel.sh"><br /></a></code></p>
+<pre>./postfix-pfdel.sh mail_sender_or_mail_recipient<a class="Link--primary" title="postfix-pfdel.sh" href="https://github.com/habiebzain/pfdel/blob/main/postfix-pfdel.sh"><br /></a></pre>
